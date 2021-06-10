@@ -1,0 +1,8 @@
+name: 'uses002'
+description: 'Create release based on a keyword'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
+branding:
+  icon: 'gift'
+  color: 'blue'
